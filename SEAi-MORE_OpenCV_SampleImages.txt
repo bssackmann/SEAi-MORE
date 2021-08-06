@@ -16,7 +16,7 @@ HISTORY
 =======
      Date        Remarks
      ----------  -----------------------------------------------------------
-     20200505    Initial script development. (BS)
+     20200806    Initial repository posting. (BS)
 
 Copyright (c) 2021 GSI Environmental Inc.
 All Rights Reserved
