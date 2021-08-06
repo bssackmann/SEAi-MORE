@@ -1,0 +1,24 @@
+***************************************
+***SEAI-MORE SAMPLE IMAGE REPOSITORY***
+***************************************
+
+A collection of sample images (n = 100) that can be used to evaluate 
+'SEAi-MORE_OpenCV.py' (Streamlit web app) can be downloaded here:
+
+https://gsienvironmental-my.sharepoint.com/:f:/g/personal/bssackmann_gsi-net_com/EuO6V5Wa2OxNuGPf6-s4FA8B6TgjtU5BVDR6vWNfY3nYGQ?e=yuOLyk
+
+
+AUTHOR(S)
+=========
+     Brandon S. Sackmann, Ph.D.
+
+HISTORY
+=======
+     Date        Remarks
+     ----------  -----------------------------------------------------------
+     20200505    Initial script development. (BS)
+
+Copyright (c) 2021 GSI Environmental Inc.
+All Rights Reserved
+E-mail: bssackmann@gsi-net.com
+$Revision: 1.0$ Created on: 2021/08/06
