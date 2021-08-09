@@ -94,7 +94,7 @@ if app_mode =='Project Overview':
                 out the video below and the [**SEAi-MORE GitHub repository**] (https://github.com/bssackmann/SEAi-MORE)!
                 ''')
 
-    st.video('https://www.youtube.com/watch?v=dutLudeih64')
+    st.video('https://youtu.be/2k7T60f-Cc8')
 
     st.markdown('''
                 # GSI's AI & CVPR Capabilities \n
