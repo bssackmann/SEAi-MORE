@@ -1,7 +1,7 @@
 # SEAi-MORE
 
 ## Project Resources
-* [Project Summary Report](https://github.com/bssackmann/SEAi-MORE/SEAi-MORE_OpenCV_ProjectSummary.pdf)
+* [Project Summary Report](https://github.com/bssackmann/SEAi-MORE/blob/main/SEAi-MORE_OpenCV_ProjectSummary.pdf)
 * [Project Overview Video](https://youtu.be/2k7T60f-Cc8)
 * [Projet GitHub Repository](https://github.com/bssackmann/SEAi-MORE)
 
