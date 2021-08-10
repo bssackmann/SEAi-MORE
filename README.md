@@ -7,7 +7,7 @@
 
 ## Contact:
 **Brandon Sackmann, Ph.D.**  
-GSI Environmental Inc.
+[GSI Environmental Inc.](https://www.gsi-net.com/en/)
 
 Email:    bssackmann@gsienv.com  
 LinkedIn: https://www.linkedin.com/in/bsackmann/
