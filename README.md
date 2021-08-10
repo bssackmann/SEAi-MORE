@@ -6,8 +6,8 @@
      * [Projet GitHub Repository] (https://github.com/bssackmann/SEAi-MORE)
 
 ## Contact:
-**Brandon Sackmann, Ph.D.**
+**Brandon Sackmann, Ph.D.** \n
 GSI Environmental Inc.
 
-Email:    bssackmann@gsienv.com
+Email:    bssackmann@gsienv.com \n
 LinkedIn: https://www.linkedin.com/in/bsackmann/
